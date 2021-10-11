@@ -25,3 +25,5 @@ def is_a_leap_year(a_year):
 
 def is_consecutive(a_list):
     return sorted(a_list) == list(range(min(a_list),max(a_list)+1))
+    blnlanla
+    uhjk
